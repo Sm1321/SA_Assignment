@@ -1,8 +1,8 @@
 pandas
 numpy
-streamlit
+streamlit==24.2
 ipykernel
 scikit-learn
 tensorflow
---upgrade scikit-learn
---upgrade pip
+upgrade scikit-learn
+upgrade pip
