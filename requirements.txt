@@ -4,5 +4,3 @@ streamlit==24.2
 ipykernel
 scikit-learn
 tensorflow
-scikit-learn
-upgrade pip
