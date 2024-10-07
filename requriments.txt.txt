@@ -1,0 +1,10 @@
+ipykernal
+numpy
+pandas 
+matplotlib
+seaborn
+streamlit
+scikit-learn
+prophet 
+
+
