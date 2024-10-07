@@ -1,6 +1,6 @@
 pandas
 numpy
-streamlit==24.0
+streamlit
 ipykernel
 scikit-learn
 tensorflow
